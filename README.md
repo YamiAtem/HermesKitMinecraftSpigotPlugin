@@ -7,7 +7,7 @@ To download eclipse, go to [Here](https://www.eclipse.org/downloads/packages/rel
 ### Create a workspace in eclipse
 To create a workspace in eclipse see this [video](https://www.youtube.com/watch?v=Lv0EgLpQqt).
 ### Go to the workspace folder
-Once you have created an eclipse workspace you need to locate the folder if you picked your own location then go there but if you picked your own then go to **_C:\Users\(Username)\eclipse-workspace_** and download the folder in the github repository and drag and drop it into this folder then start you eclipse and it should be there.
+Once you have created an eclipse workspace you need to locate the folder if you picked your own location then go there but if you picked your own then go to **_C:\Users\\(Username)\eclipse-workspace_** and download the folder in the github repository and drag and drop it into this folder then start you eclipse and it should be there.
 ### Export and a JAR file
 After you are in the workspace select the project you just put in and there should be an export button, click on that and there should we a window pop up from the find the java dropdown and and click on JAR file then press okay and from there pick where the location you want that to be in, since this a minecraft plugin which is a jar file you would generally put it in the plugins folder for your server folder for minecraft.
 ## Why eclipse
